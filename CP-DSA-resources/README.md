@@ -200,11 +200,6 @@ There is no need to spend time on learning syntax of different programming langu
 2) C++ STL - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQ6CqzMRDVUr-jEpObLiYdq
 3) Prime Numbers - https://www.youtube.com/playlist?list=PLN4aKSfpk8TQDJz7KLiwGFgnoUUwzfl1i
 ```
-
-<<<<<<< HEAD
-
-=======
->>>>>>> bad3d915561081b57a8e5249e63961418f5aa786
 <br />
 
 ## Rohan
